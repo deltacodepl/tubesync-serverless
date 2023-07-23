@@ -33,3 +33,4 @@ override.tf.json
 
 # Node ignores
 node_modules
+.idea
